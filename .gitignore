@@ -1,0 +1,11 @@
+# Roblox
+*.rbxl
+*.rbxlx.lock
+
+# Autosaves
+saves/autosaves/
+
+# OS
+.DS_Store
+Thumbs.db
+
